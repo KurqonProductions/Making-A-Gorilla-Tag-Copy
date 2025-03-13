@@ -1,2 +1,2 @@
-# Making-A-Gorilla-Tag-Copy
- all things needed to make a gorilla tag copy
+# MTNBETA Project Copy
+ MTNBETA to make a gorilla tag copy
